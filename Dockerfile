@@ -17,6 +17,7 @@ RUN uv run playwright install chromium
 
 # Copy source
 COPY src/ src/
+COPY data/ data/
 COPY config.yaml .
 COPY entrypoint.sh .
 RUN chmod +x entrypoint.sh
