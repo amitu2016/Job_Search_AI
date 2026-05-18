@@ -137,7 +137,7 @@ def load_config() -> AppConfig:
         send_on_empty_run=n.get("send_on_empty_run", False),
     )
 
-    resume_text = (ROOT / "data" / "resume.txt").read_text().strip()
+    resume_text = (ROOT / "resume.txt").read_text().strip()
 
     return AppConfig(
         search=search,

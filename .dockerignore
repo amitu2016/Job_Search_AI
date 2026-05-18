@@ -1,8 +1,7 @@
 .env
 .env.*
 !.env.example
-data/*.db
-data/*.log
+data/
 plan/
 systemd/
 __pycache__/
