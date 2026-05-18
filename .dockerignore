@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+data/
+plan/
+systemd/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.git/
+*.db
+*.log

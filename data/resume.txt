@@ -1,0 +1,42 @@
+Amit Kumar Upadhyay
+Mumbai, India | +91-9833194869
+amitu2016@gmail.com | linkedin.com/in/upadhyayamitk/
+
+SUMMARY
+Results-driven Senior Backend Engineer with nearly 8 years of expertise in designing and deploying
+cloud-native applications using microservices architecture. Currently leading backend engineering at
+HDFC Bank, specializing in developing resilient distributed systems and modernizing legacy architectures.
+Proficient in Java, Spring Boot, and enterprise-grade observability.
+
+TECHNICAL SKILLS
+- Languages & Frameworks: Java, Spring Boot, Hibernate, Spring Security, Spring Cloud, RESTful APIs
+- Cloud & DevOps: Docker, Kubernetes, AWS, Azure, GCP, Helm Charts, Jenkins, CI/CD
+- Data & Observability: PostgreSQL, Yugabyte DB, Kafka, RabbitMQ, OpenTelemetry, Prometheus, Grafana, ELK Stack
+- Core Engineering: System Design, Distributed Systems, Performance Optimization, Root Cause Analysis
+
+PROFESSIONAL EXPERIENCE
+
+HDFC Bank — Mumbai, India
+Senior Manager | July 2025 – Present
+- Spearhead development of distributed microservices and lead Proof of Concepts (POCs) for innovative banking solutions.
+- Architected a custom Resilience & Utility Library to standardize cross-cutting concerns, resolving stability issues across multiple microservices.
+- Implemented automated Database Warmup routines to initialize connection pools, effectively eliminating cold-start latency.
+- Integrated configurable retry mechanisms and exponential backoff strategies to enhance fault tolerance.
+- Developed standardized observability hooks and configured Prometheus/Grafana dashboards for real-time monitoring.
+
+CDAC Mumbai — Mumbai, India
+Technical Lead | March 2018 – June 2025
+- Led the modernization of monolithic systems by migrating to microservices architecture deployed on Kubernetes.
+- Containerized applications using Docker and orchestrated deployments to accelerate delivery cycles.
+- Implemented robust CI/CD pipelines with Jenkins and Git, integrating DevOps best practices to streamline delivery.
+- Developed secure, high-performance APIs with OAuth 2.0 and JWT authentication for third-party integrations.
+- Enhanced system observability via ELK stack, improving log management and reducing incident resolution time.
+- Mentored junior developers and conducted code reviews, resulting in measurable improvements in team productivity.
+
+EDUCATION
+University of Pune — 2016
+Bachelor of Technology in Electronics and Telecommunication Engineering
+
+CERTIFICATIONS & LANGUAGES
+- Post Graduate Diploma in Advanced Computing (PG-DAC)
+- Languages: English, Hindi

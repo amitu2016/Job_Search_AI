@@ -1,0 +1,54 @@
+search:
+  keywords:
+    - "Senior Software Engineer Java"
+    - "Lead Software Engineer Java"
+    - "Staff Engineer Java"
+    - "Principal Engineer Java"
+    - "Senior Backend Engineer"
+    - "Lead Backend Engineer"
+    - "Java Developer"
+    - "Spring Boot Developer"
+    - "Microservices Engineer"
+  locations:
+    - "Delhi"
+    - "Noida"
+    - "Gurugram"
+    - "Pune"
+    - "Bengaluru"
+    - "Hyderabad"
+    - "Mumbai"
+    - "Remote"
+  experience_years: 8
+  max_pages_per_portal: 5
+  max_jobs_per_location: 10
+  # Companies to never apply to (current and previous employers)
+  exclude_companies:
+    - "HDFC Bank"
+    - "HDFC"
+    - "CDAC"
+    - "Centre for Development of Advanced Computing"
+
+portals:
+  naukri:
+    enabled: true
+
+profile:
+  current_ctc_lpa: 27          # used to fill apply forms
+  expected_ctc_lpa: 30         # minimum acceptable
+  notice_period: "2 Months"    # options: Immediate | 15 Days or less | 1 Month | 2 Months | 3 Months
+  current_location: "Mumbai"
+  total_experience_years: 8
+
+apply:
+  min_match_score: 72          # 0-100; only apply if score >= this
+  max_applications_per_run: 15
+  delay_between_apply_sec: 45  # base delay; randomised ±15s
+  cover_note: true
+  cover_note_max_words: 150
+  min_salary_lpa: 30
+
+schedule:
+  runs_per_day: 2              # systemd timer fires at 09:00 and 18:00 IST
+
+notify:
+  send_on_empty_run: false     # skip digest if nothing was found/applied
